@@ -1,2 +1,2 @@
 # Travel-Planner-Design
-<img src ="stylesheet.png">
+<img src ="Stylesheet.png">
